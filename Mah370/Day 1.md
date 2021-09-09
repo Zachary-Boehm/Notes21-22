@@ -9,6 +9,15 @@
 1. Ways of using Algebra/Arithmatic
     * R<sub>i</sub> x R<sub>j</sub>
     * Multiplication Tabls
+1. Ahead:
+    * Group - Set of "numbers" & one operation (* or +)
+    * Ring - two operations (+ or *)
+        * Ex/context: Clock math / modular arithmetic (%)
+            * ℤ<sub>12</sub> = {0, 1, 2, ... , 11}
+            * Start over at 12 where 12 = 0
+        * ℤ<sub>4</sub> = "ℤ mod 4" : "4 = 0"
+        * "Same" and "Isomorphic"
+
 </br>
 </br>
 
@@ -45,14 +54,7 @@
 | R<sub>3</sub>F | R<sub>4</sub>F| | | | | | | |
 
 `_`
-1. Ahead:
-    * Group - Set of "numbers" & one operation (* or +)
-    * Ring - two operations (+ or *)
-        * Ex/context: Clock math / modular arithmetic (%)
-            * ℤ<sub>12</sub> = {0, 1, 2, ... , 11}
-            * Start over at 12 where 12 = 0
-        * ℤ<sub>4</sub> = "ℤ mod 4" : "4 = 0"
-        * "Same" and "Isomorphic"
+
 
 `Group`  
 |ℤ<sub>4</sub> , + | 0 | 1 | 2 | 3 |
