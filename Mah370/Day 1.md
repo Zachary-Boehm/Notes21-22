@@ -11,7 +11,7 @@
     * Multiplication Tabls
 </br>
 </br>
-___
+---
 </br>
 
 > Rotating and flipping toasty
@@ -41,6 +41,7 @@ ___
 | R<sub>1</sub>F | R<sub>1</sub>F | | | R<sub>1</sub>F | | | | |
 | R<sub>2</sub>F | R<sub>2</sub>F| | | | | | | |
 | R<sub>3</sub>F | R<sub>4</sub>F| | | | | | | |
+
 `_`
 1. Ahead:
     * Group - Set of "numbers" & one operation (* or +)
