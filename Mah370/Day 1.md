@@ -11,7 +11,9 @@
     * Multiplication Tabls
 </br>
 </br>
+
 ---
+
 </br>
 
 > Rotating and flipping toasty
