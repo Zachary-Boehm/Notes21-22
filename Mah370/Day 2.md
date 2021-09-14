@@ -1,7 +1,9 @@
 # Modern Algrebra 1 - Day 2
 ```
 The GCD as LC Theorm:
-    Given non-zero (positive) integers a, b, there exists integers s,t, such that    gcd(a,b)=s*a+t*b. Moreover, gcd(a,b) is the least positive linear combination of aθb
+    Given non-zero (positive) integers a, b, there exists integers s,t, such that
+    gcd(a,b)=s*a+t*b. Moreover, gcd(a,b) is the least positive linear combination 
+    of aθb
 
 e.g. Have gcd(250,1210)=10
     claim: There are no integers s,t with 5=5*250+t*1210 because 5<10
