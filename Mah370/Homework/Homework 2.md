@@ -48,4 +48,8 @@ ___
 
 _a)_ A group is a set G with a binary operation * satisfying 3 properties: `associativity`,`identity`,`inverse`.
 
-_b)_
+_b)_ True
+
+_c)_ False
+
+_d)_ ℝ<sub>n</sub> and ℚ<sub>n</sub>
