@@ -1,3 +1,5 @@
+# Modern Algrebra 1 - Homework 1
+
 | G | R<sub>0</sub> | R<sub>1</sub> | R<sub>2</sub> | R<sub>3</sub> | F |R<sub>1</sub>F |  R<sub>2</sub>F | R<sub>3</sub>F |
 |---|---|---|---|---|---|---|---|---|
 | R<sub>0</sub> | R<sub>0</sub> | R<sub>1</sub> | R<sub>2</sub> | R<sub>3</sub> | F | R<sub>1</sub>F | R<sub>2</sub>F | R<sub>3</sub>F |
