@@ -5,14 +5,14 @@ The GCD as LC Theorm:
     gcd(a,b)=s*a+t*b. Moreover, gcd(a,b) is the least positive linear combination 
     of aθb
 
-e.g. Have gcd(250,1210)=10
+    e.g. Have gcd(250,1210)=10
     claim: There are no integers s,t with 5=5*250+t*1210 because 5<10
 
-Consequence: suppose a,b are positive integers and 1 = 217*a - 392*b.
-What is gcd(a,b)? gcd(a,b) = 1
+    Consequence: suppose a,b are positive integers and 1 = 217*a - 392*b.
+    What is gcd(a,b)? gcd(a,b) = 1
 
     Since 1 is the least positive integer.
-*This can be a way to tell when two numbers are relatively prime. (Theoretical)
+    *This can be a way to tell when two numbers are relatively prime. (Theoretical)
 ```
 
 ```
