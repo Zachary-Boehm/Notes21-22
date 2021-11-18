@@ -1,0 +1,19 @@
+= Dogs
+
+[source, c++]
+----
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+  cout << "Hello World!" << endl;
+  return 0;
+}
+----
+
+[source, c++]
+----
+include::main.cpp
+----
